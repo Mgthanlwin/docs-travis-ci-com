@@ -1,4 +1,4 @@
----
+https://github.com/travis-ci/docs-travis-ci-com/tree/travis-ci:master--
 title: Building a Java project
 layout: en
 
